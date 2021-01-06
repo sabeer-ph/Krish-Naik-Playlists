@@ -1,0 +1,7 @@
+Step 1: first go to https://teachablemachine.withgoogle.com/ and take images of 2 things. I have taken images of me and character called maddy. Train the model and you will it is
+automatically able to predict the images. 
+step 2 : download the model. the downloaded file will be of extension .h5. my downloaded model is in this folder.
+step 3: download netron app from "https://www.electronjs.org/apps/netron" and install it
+step 4: open netron app and load this .h5 file we have
+step 5: it will show the flow digram of the algorith used.
+step 6 : we can reverse engineer bu clicling on each point and it will show more info and details.
